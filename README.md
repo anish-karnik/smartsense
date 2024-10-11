@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a Gradio-based web application that classifies emails and generates appropriate responses. The system uses a fine-tuned model to categorize emails into the following types:
+This repository contains a Gradio-based web application that classifies emails and generates appropriate responses. The system uses a fine-tuned model(Finetuned the Lllama model in finetuning_the_model.ipynb ) to categorize emails into the following types:
 1. **Student Inquiries**
 2. **Academic Collaboration Inquiries**
 3. **Corporate Inquiries**
