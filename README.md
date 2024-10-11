@@ -1,2 +1,2 @@
 # smartsense
-Smartsense Consultings Assesment 
+Smartsense Consultings Assessment 
