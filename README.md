@@ -11,6 +11,13 @@ For **student inquiries**, the app uses a Retrieval-Augmented Generation (RAG) s
 
 The app is containerized using Docker, making it easy to deploy across different environments, including cloud services.
 
+## The Application
+![Screenshot 2024-10-11 191747](https://github.com/user-attachments/assets/b14004d4-30ec-480c-ba97-4271e46f1b37)
+
+![Screenshot 2024-10-11 214238](https://github.com/user-attachments/assets/46e53840-0a61-4481-862a-d7237d6d966f)
+
+
+
 ## Features
 
 - **Email Classification**: The system can classify emails into one of three types using a fine-tuned model.
