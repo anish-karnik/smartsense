@@ -1,0 +1,469 @@
+Anirban Dasgupta is currently the N. Rama Rao Chair Professor of Computer Science and Engineering at Indian Institute of Technology at Gandhinagar. Before this, I have worked in Yahoo! Labs Sunnyvale from 2006-2013. I acknowledge the kind support of Google Faculty Research Award (February 2015), Cisco Research University grant (May 2016), and Google India AI/ML award (2020).
+
+email: firstname dot lastname at gmail, or, anirbandg at iitgn dot ac dot in . 
+
+NOTE: Unfortunately, I am not able to reply to individual emails about short term projects. If you are interested, please apply through the IITGN summer internship application websites, as and when they are put up.  
+
+Research Interests
+Randomized algorithms, especially for large data-sets, large scale linear algebra and optimization
+
+Modeling, analytics and mining of large social and information networks
+
+Information extraction and aggregation problems in social computing systems, e.g. crowdsourcing
+
+computational social science and crowdsourcing.
+
+Students
+The current position listed here may be outdated. 
+
+MTech
+
+Graduated : Ishita Doshi (currently at LinkedIn), Ashish Dwivedi (currently at Strand Life Sciences),  Roop Choudhuri (self-employed), Sreejith Srikrishnan, Jyoti Kumari (doctoral studies at IITKGP).
+
+Current : Venkata Sai Gavini.
+
+PhD
+
+Graduated / thesis submitted : Jayesh Choudhari (co-supervised with Indrajit Bhattacharya)  -- postdoc@University of Warwick), Supratim Shit (postdoc at Technion), Rachit Chhaya (faculty member at DAIICT), Amit Reza (cosupervised with Anand Sengupta) (postdoc at Nikhef).
+
+Current : Jayesh Malaviya, Shrutimoy Das, Binita Maity, Shubhajit Roy.
+
+
+Academic Experience
+Ph.D., Computer Science, Cornell University, December 2005.
+
+M.S., Computer Science, Cornell University, 2004.
+
+Junior Project Officer, Indian Institute of Technology,Kharagpur, August 1999-August 2000.
+
+B.Tech. Computer Science, Indian Institute of Technology, Kharagpur, 1999.
+
+Awards, grants etc.
+Google Faculty Research Award,  2015.
+
+CISCO University research grant, 2016.
+
+(co-PI of) ICPS grant on "Scaling up gravitational wave search pipeline using random projection" .
+
+(co-PI of) DBT grant on "Computational pipeline of large scale NGS datasets".
+
+Google India AI/ML Award 2020.
+
+Professional Experience
+Professor, Computer Science and Engineering, IIT Gandhinagar, February 2020 - current.
+
+Associate Professor, Computer Science and Engineering, IIT Gandhinagar: December 2013 - February 2020.
+
+Senior Scientist at Audience Sciences group, Yahoo! Research Labs: January 2011 - December 2013.
+
+Scientist at Audience Sciences group Yahoo! Research Labs: February 2008 - January 2011.
+
+ Worked closely with the Yahoo! Mail Anti-spam team in order to build machine learnt classifiers, user reputation systems, and methods to identify gaming votes by spammers. Worked on developing novel methods to efficiently and robustly personalize spam-filters by using hashing techniques.
+
+Developed algorithms for different metric estimation problems (estimating audience size, estimating user retention) to be used by the metrics team at Yahoo!.
+
+Collaborated with the Hadoop team at Yahoo! to develop a simulation platform (Mumak). Also published academic paper on algorithmic scheduling in map-reduce.
+
+ Research on social network analysis and algorithmic data mining; developed methods to analyze community structure of large networks, methods to sample opinions on social networks, approximation algorithms for bi-clustering problems, sampling to do feature selection etc.
+
+Research on mechanisms for information extraction in crowdsourcing and in algorithms to aggregate the collected information 
+
+Postdoctoral Fellow at Search Sciences group, Yahoo! Research: February 2006 - February 2008.
+
+Research in web information management, efficient crawling techniques, content deduplication, approximation algorithms for bi-clustering, designing sampling methods for efficient vector space based optimization for large datasets.
+
+Graduate Research Assistant under Prof. John Hopcroft, Dept. of Computer Science, Cornell University: 2000-2005
+
+Thesis title: ``Learning using Spectral Methods''. Research in modeling large graphs, spectral clustering techniques, learning mixture models and network design using algorithmic game theory.
+
+Junior Project Officer under Prof. Partha Pratim Chakrabarty, Dept. of Computer Science, I.I.T. Kharagpur: 1999-2000.
+
+Research in designing logic for specifying properties of circuits, and algorithms for efficient verification.
+
+Professional Activities
+Program Committee member of
+
+COSN 2014
+
+ICDM 2014 (area chair)
+
+FIRE 2014,
+
+FSTTCS 2014,
+
+COLING 2014,
+
+IEEE BigData 2013,
+
+Workshop on Models and Algorithms on the Web Graph 2013,
+
+International Conference in Machine Learning, 2013,
+
+International World Wide Web Conference 2011, 2013,2014,
+
+ACM Conference on Principles of Database systems 2009,
+
+ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2008, 2010, 2011, 2012, 2013,2014
+
+IEEE International Conference on Data Mining 2008, 2009, 2010,
+
+ACM Workshop on Complex Networks in Information and Knowledge Management 2009,
+
+ACM International Conference on Web Search and Data Mining, 2010, 2011, 2012,
+
+Workshop on Feature Selection in Data Mining, 2010, SNAKDD 2010, Workshop on Algorithms on Web 2010, 2011.
+
+Reviewer and invited panel member for NSF proposals for Information & Intelligent Systems (IIS) Division.
+
+Co-organizer of ``Research and Analysis of Tails Phenomenon Symposium 2010" symposium along with Andrei Broder and Ravi Kumar at Yahoo!
+
+Co-organizer of ICIAM '07 Minisymposium, ``Novel Matrix Methods for Internet Data Mining'' with Gene Golub, Lek Heng Lim, Michael Mahoney.
+
+Reviewer for: SIAM Journal of Computing, Journal of ACM, Transactions in Knowledge and Data Engineering, NIPS, STOC, FOCS etc.
+
+Volunteering in Educational Outreach
+Co-instructor in ``Introduction to college mathematics", Prison University Program (Patten University), San Quentin State Prison, 2013.  
+
+Designed and led science workshops through Expanding Your Horizons, an organization dedicated to encouraging girls’ interest in mathematics and science, at Cornell University, 2001-2004, 2013.
+
+Designed and co-taught an 8-session mini-course on Mathematics and Biology at Watkins Glen Middle School, NY through the Graduate Student School Outreach Program 2005, Cornell University.
+
+Served as volunteer and chapter coordinator for Asha for Education, an organization dedicated to promoting primary education in India.
+
+Volunteer at Ingenuity Labs, Lawrence Hall of Science.
+
+
+Publications
+Current citation data  available at  Google Scholar profile.  
+
+DBLP link.
+
+Pre-publication prints for refereed conferences and journal papers
+Saving Critical Nodes with Firefighters is FPT
+
+Jayesh Choudhari, Anirban Dasgupta, Neeldhara Misra and Ramanujan M. S.. ICALP 2017
+
+Caching with dual costs.
+
+Anirban Dasgupta, Ravi Kumar and Tamas Sarlos. WWW 2017.
+
+A Framework for Estimating Stream Expression Cardinalities.
+
+Anirban Dasgupta, Kevin Lang, Lee Rhodes and Justin Thaler, to appear in International Conference of Database Technologies (ICDT) 2016. Best newcomer award.
+
+On Sampling Nodes in a Network
+
+Flavio Chierichetti, Anirban Dasgupta, Ravi Kumar, Silvio Lattanzi and Tamas Sarlos., to appear in Conference of the World Wide Wed (WWW) 2016. 
+
+Approximate Modularity
+
+Flavio Chierichetti, Abhimanyu Das, Anirban Dasgupta, Ravi Kumar
+
+in Proceedings of FOCS 2015
+
+On Learning Mixture Models for Permutations
+
+Flavio Chierichetti, Anirban Dasgupta, Ravi Kumar, Silvio Lattanzi
+
+in Proceedings of ITCS 2015
+
+On Reconstructing a Hidden Permutation
+
+Flavio Chierichetti, Anirban Dasgupta, Ravi Kumar, Silvio Lattanzi
+
+to appear in Proceedings of RANDOM 2014
+
+On Estimating Average degree of Networks
+
+Anirban Dasgupta, Ravi Kumar, Tamas Sarlos, WWW 2014.
+
+Learning Entangled Single Sample Gaussians
+
+Flavio Chierichetti, Anirban Dasgupta, Ravi Kumar, Silvio Lattanzi, SODA 2014. 
+
+Summarization through Submodularity and Dispersion
+
+Anirban Dasgupta, Ravi Kumar, Sujith Ravi, Proceeding of 51st Annual Meeting of the Association for Computational Linguistics (ACL) 2013.
+
+Crowdsourced Judgement Elicitation with Endogenous Proficiency
+
+Anirban Dasgupta, Arpita Ghosh, Proceeding of 22nd ACM International World Wide Web Conference (WWW) 2013.
+
+Aggregating Crowdsourced Binary Ratings
+
+Nilesh Dalvi, Anirban Dasgupta, Ravi Kumar and Vibhor Rastogi, Proceedings of 22nd ACM International World Wide Web Conference (WWW) 2013.
+
+Optimal Hashing Schemes for Entity Matching
+
+Nilesh Dalvi, Vibhor Rastogi, Anirban Dasgupta, Anish Das Sarma and Tamas Sarlos, Proceedings of 22nd ACM International World Wide Web Conference (WWW) 2013.
+
+Selecting Diverse Features via Spectral Regularization. 
+
+Abhimanyu Das, Anirban Dasgupta, Ravi Kumar.  NIPS 2012.
+
+Impact of Spam Exposure on User Engagement. 
+
+Anirban Dasgupta, Kunal Punera, Justin Rao, Xuanhui Wang, USENIX Security 2012.
+
+Sparse and Lopsided Set Disjointness via Information Theory. 
+
+Anirban Dasgupta, Ravi Kumar, D. Sivakumar, RANDOM-APPROX 2012.
+
+Social Sampling. 
+
+Anirban Dasgupta, Ravi Kumar, D. Sivakumar, KDD 2012.
+
+Vote Calibration in Community Question-Answering Systems. 
+
+Bee-Chung Chen, Anirban Dasgupta, Xuanhui Wang, Jie Yang, SIGIR 2012.
+
+Estimating Unique browsers through clustering browser cookies. 
+
+Anirban Dasgupta, Maxim Gurevich, Liang Zhang, Belle Tseng, Achint Thomas, ACM Conference on Web-search and Data Mining (WSDM), 2012.
+
+Fast Locality Sensitive Hashing. 
+
+Anirban Dasgupta, Ravi Kumar, Tamas Sarlos, ACM-SIGKDD Conference on Knowledge Discovery and Data Mining 2011.
+
+Spam or ham? characterizing and detecting fraudulent ``not spam" reports in web mail systems.
+
+Anirudh Ramachandran, Anirban Dasgupta, Nick Feamster,  Kilian Weinberger, Conference on Email and Anti-spam, 2011.
+
+On Scheduling in Map-reduce and Flowshops.
+
+Ben Moseley, Anirban Dasgupta, Ravi Kumar, Tamas Sarlos, ACM Symposium on Parallelism in Algorithms and Architecture(SPAA) 2011.
+
+Enhanced Email Spam Filtering through combining Similarity Graphs.
+
+Anirban Dasgupta, Maxim Gurevich, Kunal Punera, ACM Conference on Web-search and Data Mining(WSDM) 2011.
+
+A Sparse Johnson-Lindenstrass Transform. 
+
+Anirban Dasgupta, Ravi Kumar and Tamas Sarlos, ACM Symposium on Theory of Computing, June 2010.
+
+Collaborative Spam Filtering with the Hashing Trick. 
+
+Josh Attenberg, Kilian Weinberger, Alex Smola, A. Dasgupta, Martin Zinkevich, Sixth Conference on Email and Anti-Spam, 2009. Appeared in the online Virus Bulletin November 2009 issue by invitation: http://www.virusbtn.com/virusbulletin/archive/2009/11/vb200911-collaborative-spam-filtering.
+
+Feature hashing for large scale multitask learning. 
+
+Kilian Weinberger, Anirban Dasgupta, John Langford, Alex Smola and Josh Attenberg, International Conference of Machine Learning, 2009.
+
+Online story scheduling in web advertising. 
+
+Arpita Ghosh, Anirban Dasgupta, Hamid Nazerzadeh and Prabhakar Raghavan, Proceedings of 20th Annual ACM-SIAM Symposium on Discrete Algorithms 2009, pages 1275-1284.
+
+Sampling algorithms and coresets for $\ell_p$ regression. 
+
+Anirban Dasgupta, Petros Drineas, Boulos Harb, Ravi Kumar, and Michael
+
+Mahoney, Conference version in SIAM Symposium on Discrete Algorithms, 2008. 
+
+Journal version in SIAM Journal of Computing volume 38(5), 2009, pages 2060-2078.
+
+De-duping URLs via Rewrite Rules.  
+
+Anirban Dasgupta, Amit Sasturkar and Ravi Kumar, Proceedings of 14th ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2008, pages 186-194.
+
+Approximation Algorithms for Co-clustering. 
+
+Aris Anagnostopoulos, Anirban Dasgupta and Ravi Kumar,
+
+Proceedings of ACM Conference on Principles of Database Systems 2008, pages 201-210.
+
+Statistical Properties of Community Structure in Large Social and Information Networks. (arXiv, conference) 
+
+Jure Leskovec, Kevin Lang, Anirban Dasgupta and Michael Mahoney,
+
+Proceedings of 17th International Conference on World Wide Web 2008, page 695-704. 
+
+Journal version appeared in Internet Mathematics, 6(1), 29-123 (2009).
+
+Feature Selection Methods for Text Classification.
+
+Anirban Dasgupta, Petros Drineas, Boulos Harb, Vanja Josifovski, and Michael
+
+Mahoney, Proceedings of 13th ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2007, pages 230-239.
+
+The Discoverability of the Web. 
+
+Anirban Dasgupta, Arpita Ghosh, Ravi Kumar, Chris Olston, Sandeep Pandey, and Andrew Tomkins, Proceedings of 16th International Conference on World Wide Web 2007, pages 421-430.
+
+Spectral Clustering with Limited Independence. 
+
+Anirban Dasgupta, John Hopcroft, Ravi Kannan, and Pradipta Mitra,
+
+Proceedings of the 18th Annual ACM-SIAM Symposium on Discrete algorithms, 2007, pages 1036 - 1045.
+
+Finding (short) paths in social networks. 
+
+Andre Allavena, Anirban Dasgupta, John Hopcroft, and Ravi Kumar,
+
+Internet Mathematics volume 3 issue 2, 2006, pages 129-146.
+
+Spectral Clustering by Recursive Partitioning. 
+
+Anirban Dasgupta, John Hopcroft, Ravi Kannan, and Pradipta Mitra,
+
+Proceedings of 14th Annual European Symposium on Algorithms 2006, pages 256-267.
+
+On learning mixtures of heavy tailed distributions. 
+
+Anirban Dasgupta John Hopcroft, Jon Kleinberg, and Mark Sandler,
+
+Proceedings of 46th Annual IEEE Symposium on Foundations of Computer Science 2005, pages 491-500.
+
+Variable Latent Semantic Indexing. 
+
+Anirban Dasgupta, Prabhakar Raghavan, Ravi Kumar, and Andrew Tomkins,
+
+Proceedings of 11th ACM SIGKDD Conference on Knowledge Discovery and Data Mining 2005, pages 13-21.
+
+Spectral Analysis of Random Graphs with Skewed Degree Distributions. 
+
+Anirban Dasgupta, John Hopcroft, and Frank McSherry,
+
+Proceedings of 45th Annual IEEE Symposium on Foundations of Computer Science 2004, pages 602-610.
+
+The price of stability for network design with fair cost allocation. (conference, journal)
+
+Elliot Anshelevich, Anirban Dasgupta, Jon Kleinberg,
+
+Eva Tardos, Tom Wexler, and Tim Roughgarden,  Foundations of Computer Science 2004. 
+
+Journal version appeared in SIAM Journal on Computing, Volume 38, Issue 4 (November 2008), pages 1602-1623.
+
+Near Optimal Network Design with Selfish Agents. 
+
+Elliot Anshelevich, Anirban Dasgupta, Eva Tardos, and Tom Wexler,  Symposium on Theory of Computing 2003.  
+
+Journal version appeared in Theory of Computing, Volume 4 (2008), pages 77-109.
+
+Quantified Computation Tree Logic. 
+
+Anindya Patthak, Indrajit Bhattacharya, Anirban Dasgupta, Pallab Dasgupta, and Partha Pratim Chakrabarti,  Information Processing Letters Vol 82(3), 2002.
+
+Patents
+Mail compression scheme with individual message decompressability, with Ravi Kumar. US Patent number US78360
+
+Feature selection for text classification using subspace sampling, with Petros Drineas, Boulos Harb, Vanja Josifovski, Michael Mahoney. US Patent number US8046317.
+
+
+Selected Recent Papers (more.., updated list at DBLP  and Google Scholar):
+
+
+
+Supratim Shit, Rachit Chhaya,  Jayesh Choudhari, Anirban Dasgupta. Online Coresets for Parametric and Non-Parametric Bregman Clustering. Accepted in TMLR. 
+
+Rachit Chhaya,  Anirban Dasgupta,  Jayesh Choudhari, Supratim Shit. On Coresets for Fair Regression and Clustering.  AISTATS 2022.
+
+Jayesh Choudhari, Anirban Dasgupta, Indrajit Bhattacharya, Srikanta Bedathur: Analyzing Topic Transitions in Text-based Social Cascades using Dual-Network Hawkes Process. PAKDD 2021.  
+
+Anirban Dasgupta, Srijan Sengupta. Scalable estimation of epidemic thresholds via node sampling. Sankhya A 2021.
+
+Rachit Chhaya, Jayesh Choudhari Anirban Dasgupta,  Supratim Shit. Streaming Coresets for Symmetric Tensor Factorization.  ICML 2020. 
+
+Rachit Chhaya,  Anirban Dasgupta,  Supratim Shit. Coresets for Regularized Regression.  ICML 2020. 
+
+S Kulkarni, KS Phukon, Amit Reza, Sukanta Bose, Anirban Dasgupta, D Krishnaswamy, Anand Sengupta: Random projections in gravitational wave searches of compact binaries:   Phys. Rev. D99 2019. 
+
+Rijula Kar, Susmija Reddy, Sourangshu Bhattacharya, Anirban Dasgupta, Soumen Chakrabarti: Task-Specific Representation Learning for Web-Scale Entity Disambiguation.  AAAI 2018.
+
+Jayesh Choudhari, Anirban Dasgupta, Indrajit Bhattacharya, Srikanta Bedathur: Discovering Topical Interactions in Text-Based Cascades Using Hidden Markov Hawkes Processes. ICDM 2018.
+
+Flavio Chierichetti, Anirban Dasgupta, Shahrzad Haddadan, Ravi Kumar, Silvio Lattanzi: Mallows Models for Top-k Lists. NeurIPS 2018.
+
+Jayesh Choudhari, Anirban Dasgupta, Neeldhara Misra and Ramanujan M. S.: Saving Critical Nodes with Firefighters is FPT. ICALP 2017.
+
+Anirban Dasgupta, Ravi Kumar and Tamas Sarlos. : Caching with dual costs. WWW 2017.
+
+Anirban Dasgupta, Kevin Lang, Lee Rhodes and Justin Thaler :  A Framework for Estimating Stream Expression Cardinalities. International Conference of Database Technologies (ICDT) 2016. Best newcomer award.
+
+Flavio Chierichetti, Anirban Dasgupta, Ravi Kumar, Silvio Lattanzi and Tamas Sarlos.: On Sampling Nodes in a Network. Conference of the World Wide Wed (WWW) 2016. 
+
+Some of the course material can be accessed only by using an IITGN account.
+
+
+Archived videos of NPTEL course on 'Scalable Data Science', co-taught with Sourangshu Bhattacharya. 
+
+Theoretical Foundations of ML (CS 618)
+
+Fall 2024. Course page. 
+
+Introduction to Data Science (CS 328)
+
+Spring 2019 , Spring 2020, Spring 2021, Spring 2022, Spring 2023, Spring 2024.  Course page.  
+
+Students of the 2022 version generated a set of scribed lecture notes (these will be polished in recent future), as well as a set of data-stories  
+
+Algorithms (CS610)
+
+Fall 2017, Fall 2019
+
+Special topics in ML (CS 691)
+
+Fall 2019, Fall 2020, Fall 2021
+
+Learning with graphs
+
+Spring 2022
+
+Optimization for ML
+
+Fall 2022, Fall 2023
+
+Data-Centric Computing (ES113)
+
+Spring 2023
+
+Discrete Mathematics (cotaught with Neeldhara Misra)
+
+Fall 2023
+
+Deep Learning (ES 413)
+
+Spring 2024
+
+
+I had the opportunity to give a talk on Alan Turing in a virtual seminar series at IITGN. The talk draws heavily from the beautiful Logicomix book by Apostolos Doxiadis  and Christos Papadimitriou. Here is an article written by the talented Apeksha Srivastava based on the talk. 
+
+Anirban Dasgupta
+
+N Rama Rao Chair Professor, Computer Science & Engineering
+
+BTech: IIT Kharagpur, 1999
+MS: Cornell University, 2005
+PhD: Cornell University, 2005
+Email: anirbandg -AT- iitgn.ac.in
+
+Website : https://sites.google.com/site/anirbandasgupta
+
+Office: 13/405 G
+VOIP: 2463 / 2080
+
+
+ 
+
+Rijula Kar, Susmija Reddy, Sourangshu Bhattacharya, Anirban Dasgupta, Soumen Chakrabarti: Task-Specific Representation Learning for Web-Scale Entity Disambiguation. AAAI 2018.
+
+Jayesh Choudhari, Anirban Dasgupta, Indrajit Bhattacharya, Srikanta Bedathur: Discovering Topical Interactions in Text-Based Cascades Using Hidden Markov Hawkes Processes. ICDM 2018.
+
+Flavio Chierichetti, Anirban Dasgupta, Shahrzad Haddadan, Ravi Kumar, Silvio Lattanzi: Mallows Models for Top-k Lists. NeurIPS 2018.
+
+Jayesh Choudhari, Anirban Dasgupta, Neeldhara Misra, M. S. Ramanujan: Saving Critical Nodes with Firefighters is FPT. ICALP 2017.
+
+Anirban Dasgupta, Ravi Kumar, Tamás Sarlós: Caching with Dual Costs. WWW 2017.
+
+Research Interests
+
+● Algorithms for large scale data
+● Social networks
+● Computational social science
+● Crowdsourcing
+● Machine learning
+
+
+Recent academic activities
+Recent Program committees: ICML, NeurIPS, KDD, ICDM, WWW, WSDM, ASONAM...
+
+
