@@ -1,0 +1,8 @@
+unsloth
+faiss-gpu
+sentence-transformers
+transformers
+torch
+gradio
+langchain
+langchain-community
