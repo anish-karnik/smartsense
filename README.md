@@ -17,6 +17,11 @@ The app is containerized using Docker, making it easy to deploy across different
 ![Screenshot 2024-10-11 214238](https://github.com/user-attachments/assets/46e53840-0a61-4481-862a-d7237d6d966f)
 
 
+### Finetuning the Model
+I used Lllama Model(8B) to finetune with our data. For this I used Unsloth as it makes such a big model like llama to work in Google Colab.  
+
+### Building our own Neural Network
+I used Naive Bayes (Multinomial) and LSTM for Classification of the mail (Present in Multiclass_Text_Classification.ipynb).  Naive Bayes is computationally efficient and fast to implement, making it ideal for text classification tasks like spam detection, sentiment analysis, and email classification. However it relies on frequency counts, which means it might not capture the context or word dependencies well, leading to poor performance when dealing with long or highly contextual texts. LSTMs are excellent for processing and making predictions based on sequential data, such as text, because they can capture long-range dependencies between words or sentences. Unlike Naive Bayes, LSTM does not assume feature independence and can model complex dependencies between words in a sentence or document. Also LSTM gave better accuracy score on test data than Naive Bayes. In this way, I used a machine-learning model and a deep learning model. One provides faster results while other provides better accuracy.
 
 ## Features
 
